@@ -1,0 +1,5 @@
+*
+!*/
+!kernel
+!rootfs.cpio
+!.gitignore
