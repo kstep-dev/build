@@ -1,5 +1,10 @@
 *
-!*/
-!kernel
-!rootfs.cpio
 !.gitignore
+!README.md
+!/user
+!*/
+*/kmod/
+*/linux/
+*/rootfs/
+!*/kernel
+!*/kmod.ko
